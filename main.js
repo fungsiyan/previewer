@@ -37,15 +37,15 @@ var cachedAnis = {};
 
 var defaultImage = {};
 var defaultImageSource = {
-    "SPRITES": "res/images/sprites.png",
-    "HEAD": "res/images/head0.png",
-    "BODY": "res/images/body.png",
-    "ATTR1": "res/images/hat0.png",
-    "ATTR2": "res/images/classiciphone_mount_lion.png",
-    "ATTR4": "res/images/accessory_backpack0.png",
+    "SPRITES": "https://classiccachecloud.quattroplay.com/images2/ce_sprites.png",
+    "HEAD":    "https://classiccachecloud.quattroplay.com/heads/head0.png",
+    "BODY":    "https://classiccachecloud.quattroplay.com/bodies/body1.png",
+    "ATTR1":   "https://classiccachecloud.quattroplay.com/hats/hat0.png",
+    "ATTR2":   "https://classiccachecloud.quattroplay.com/images3/classiciphone_mount_lion.png",
+    "ATTR4":   "https://classiccachecloud.quattroplay.com/accessories/accessory_backpack0.png",
     "HORSE": "res/images/ride.png",
+    "SWORD":   "https://classiccachecloud.quattroplay.com/swords/sword1.png",
     "SHIELD": "res/images/shield1.png",
-    "SWORD": "res/images/sword1.png",
     "PARAM1": "res/images/null.png"
 };
 var visibleAttributes = [
@@ -872,16 +872,3 @@ async function getServerGaniContent(file) {
         //console.error(err);
     }
 }
-
-/*
-// UI Colorspace regulation
-const slider = document.querySelector('.theme input')
-const root = document.querySelector(':root')
-
-slider.addEventListener('input', () => {
-    const hue = slider.value
-
-    root.style.setProperty('--primary-color', `oklch(45.12% 0.267 ${hue})`)
-    root.style.setProperty('--secondary-color', `oklch(94.45% 0.03 ${hue})`)
-})
-*/
