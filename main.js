@@ -45,7 +45,7 @@ var defaultImageSource = {
     "ATTR4":   "https://classiccachecloud.quattroplay.com/accessories/accessory_backpack0.png",
     "HORSE":   "https://classiccachecloud.quattroplay.com/mainfiles/gifs/ride.png",
     "SWORD":   "https://classiccachecloud.quattroplay.com/swords/sword1.png",
-    "SHIELD": "res/images/shield1.png",
+    "SHIELD":  "https://classiccachecloud.quattroplay.com/mainfiles/shields/shield1.png",
     "PARAM1": "res/images/null.png"
 };
 var visibleAttributes = [
