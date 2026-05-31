@@ -46,7 +46,7 @@ var defaultImageSource = {
     "HORSE":   "https://classiccachecloud.quattroplay.com/mainfiles/gifs/ride.png",
     "SWORD":   "https://classiccachecloud.quattroplay.com/swords/sword1.png",
     "SHIELD":  "https://classiccachecloud.quattroplay.com/mainfiles/shields/shield1.png",
-    "PARAM1": "res/images/null.png"
+    "PARAM1":  "https://upload.wikimedia.org/wikipedia/commons/0/0d/Null.png"
 };
 var visibleAttributes = [
     "SPRITES", "HEAD", "BODY", "ATTR1", "ATTR2", "ATTR4", "HORSE", "SHIELD", "SWORD", "PARAM1"
