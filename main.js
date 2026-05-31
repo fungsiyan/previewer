@@ -43,7 +43,7 @@ var defaultImageSource = {
     "ATTR1":   "https://classiccachecloud.quattroplay.com/hats/hat0.png",
     "ATTR2":   "https://classiccachecloud.quattroplay.com/images3/classiciphone_mount_lion.png",
     "ATTR4":   "https://classiccachecloud.quattroplay.com/accessories/accessory_backpack0.png",
-    "HORSE": "res/images/ride.png",
+    "HORSE":   "https://classiccachecloud.quattroplay.com/mainfiles/gifs/ride.png",
     "SWORD":   "https://classiccachecloud.quattroplay.com/swords/sword1.png",
     "SHIELD": "res/images/shield1.png",
     "PARAM1": "res/images/null.png"
