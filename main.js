@@ -37,9 +37,9 @@ var cachedAnis = {};
 
 var defaultImage = {};
 var defaultImageSource = {
-    "SPRITES": "https://classiccachecloud.quattroplay.com/images2/ce_sprites.png",
-    "HEAD":    "https://classiccachecloud.quattroplay.com/heads/head0.png",
-    "BODY":    "https://classiccachecloud.quattroplay.com/bodies/body1.png",
+    "SPRITES": "https://classiccachecloud.quattroplay.com/mainfiles/gifs/sprites.png",
+    "HEAD":    "https://classiccachecloud.quattroplay.com/mainfiles/heads/head0.png",
+    "BODY":    "https://classiccachecloud.quattroplay.com/mainfiles/bodies/body.png",
     "ATTR1":   "https://classiccachecloud.quattroplay.com/hats/hat0.png",
     "ATTR2":   "https://classiccachecloud.quattroplay.com/images3/classiciphone_mount_lion.png",
     "ATTR4":   "https://classiccachecloud.quattroplay.com/accessories/accessory_backpack0.png",
